@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\medov\\source\\repos\\Course work\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{41132BF4-0835-4145-8162-1D92F3682BD5}|Course work\\Course work.csproj|c:\\users\\medov\\source\\repos\\course work\\course work\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41132BF4-0835-4145-8162-1D92F3682BD5}|Course work\\Course work.csproj|solutionrelative:course work\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41132BF4-0835-4145-8162-1D92F3682BD5}|Course work\\Course work.csproj|c:\\users\\medov\\source\\repos\\course work\\course work\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41132BF4-0835-4145-8162-1D92F3682BD5}|Course work\\Course work.csproj|solutionrelative:course work\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41132BF4-0835-4145-8162-1D92F3682BD5}|Course work\\Course work.csproj|c:\\users\\medov\\source\\repos\\course work\\course work\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41132BF4-0835-4145-8162-1D92F3682BD5}|Course work\\Course work.csproj|solutionrelative:course work\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41132BF4-0835-4145-8162-1D92F3682BD5}|Course work\\Course work.csproj|c:\\users\\medov\\source\\repos\\course work\\course work\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41132BF4-0835-4145-8162-1D92F3682BD5}|Course work\\Course work.csproj|solutionrelative:course work\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\medov\\source\\repos\\Course work\\Course work\\User.cs",
+              "RelativeDocumentMoniker": "Course work\\User.cs",
+              "ToolTip": "C:\\Users\\medov\\source\\repos\\Course work\\Course work\\User.cs",
+              "RelativeToolTip": "Course work\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T22:12:29.252Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\medov\\source\\repos\\Course work\\Course work\\Category.cs",
+              "RelativeDocumentMoniker": "Course work\\Category.cs",
+              "ToolTip": "C:\\Users\\medov\\source\\repos\\Course work\\Course work\\Category.cs",
+              "RelativeToolTip": "Course work\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T22:12:14.238Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Transaction.cs",
+              "DocumentMoniker": "C:\\Users\\medov\\source\\repos\\Course work\\Course work\\Transaction.cs",
+              "RelativeDocumentMoniker": "Course work\\Transaction.cs",
+              "ToolTip": "C:\\Users\\medov\\source\\repos\\Course work\\Course work\\Transaction.cs",
+              "RelativeToolTip": "Course work\\Transaction.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T22:11:48.997Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\medov\\source\\repos\\Course work\\Course work\\Program.cs",
+              "RelativeDocumentMoniker": "Course work\\Program.cs",
+              "ToolTip": "C:\\Users\\medov\\source\\repos\\Course work\\Course work\\Program.cs",
+              "RelativeToolTip": "Course work\\Program.cs",
+              "ViewState": "AQIAAO8AAAAAAAAAAAAAwAoBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T22:10:19.295Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
